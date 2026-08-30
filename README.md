@@ -12,11 +12,11 @@ Un dashboard interactivo desarrollado en **Power BI** para analizar el rendimien
 
 | Factores de Riesgo | Rendimiento Académico |
 | ------------------ | --------------------- |
-| *(Captura aquí)*   | *(Captura aquí)*      |
+|                    |                       |
 
 | Monitoreo Académico |
 | ------------------- |
-| *(Captura aquí)*    |
+|                     |
 
 ---
 

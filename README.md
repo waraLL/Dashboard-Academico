@@ -192,4 +192,4 @@ Durante este proyecto se fortalecieron conocimientos en:
 
 Ingeniera Electrónica 
 
-Este proyecto forma parte de mi **Portafolio Digital de Ciencia y Análisis de Datos**, donde desarrollo recursos didácticos y proyectos aplicados utilizando herramientas de análisis y visualización de datos.
+Este proyecto forma parte del reporsitorios de recursos didácticos y proyectos aplicados utilizando herramientas de análisis y visualización de datos.

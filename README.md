@@ -8,16 +8,15 @@ Un dashboard interactivo desarrollado en **Power BI** para analizar el rendimien
 
 ## Vista previa del dashboard
 
-> Reemplaza estas imágenes por capturas de tu dashboard.
+Factores de Riesgo 
+<img width="1451" height="824" alt="Factores_riesgo" src="https://github.com/user-attachments/assets/e16d65fd-903f-4d1a-a978-052f453e1d4f" />
 
-| Factores de Riesgo | Rendimiento Académico |
-| ![Uploading Factores_riesgo.png…]()
-- | --------------------- |
-|                    |                       |
+Rendimiento Académico 
+<img width="1440" height="817" alt="Rendimiento_academico" src="https://github.com/user-attachments/assets/d852f3cf-2457-4f65-be11-fa52650107ad" />
 
-| Monitoreo Académico |
-| ------------------- |
-|                     |
+Monitoreo Académico 
+<img width="1444" height="807" alt="Monitoreo_estudiantil" src="https://github.com/user-attachments/assets/a38990bf-f89f-4242-a184-dec690cc1d1c" />
+
 
 ---
 

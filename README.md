@@ -9,13 +9,16 @@ Un dashboard interactivo desarrollado en **Power BI** para analizar el rendimien
 ## Vista previa del dashboard
 
 Factores de Riesgo 
-<img width="1451" height="824" alt="Factores_riesgo" src="https://github.com/user-attachments/assets/e16d65fd-903f-4d1a-a978-052f453e1d4f" />
+
+<img width="1437" height="807" alt="factores_riesgo" src="https://github.com/user-attachments/assets/a7e4976c-98f6-4e1a-91f5-877df02d0a55" />
 
 Rendimiento Académico 
-<img width="1440" height="817" alt="Rendimiento_academico" src="https://github.com/user-attachments/assets/d852f3cf-2457-4f65-be11-fa52650107ad" />
+
+<img width="1439" height="807" alt="rendimiento" src="https://github.com/user-attachments/assets/908b7615-8ed8-448c-96cc-5049706c7c28" />
 
 Monitoreo Académico 
-<img width="1444" height="807" alt="Monitoreo_estudiantil" src="https://github.com/user-attachments/assets/a38990bf-f89f-4242-a184-dec690cc1d1c" />
+
+<img width="1439" height="799" alt="monitoreo" src="https://github.com/user-attachments/assets/555c35b4-6a85-4a53-aea2-91f5b3ce1944" />
 
 
 ---
@@ -192,4 +195,4 @@ Durante este proyecto se fortalecieron conocimientos en:
 
 Ingeniera Electrónica 
 
-Este proyecto forma parte del reporsitorios de recursos didácticos y proyectos aplicados utilizando herramientas de análisis y visualización de datos.
+Este proyecto forma parte del reporsitorio de recursos didácticos y proyectos aplicados utilizando herramientas de análisis y visualización de datos.

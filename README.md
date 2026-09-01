@@ -164,8 +164,6 @@ El dashboard incorpora elementos interactivos para facilitar la exploración de 
 * Semestre
 * Departamento
 * Género
-* Nivel de GPA
-* Nivel de riesgo
 
 ### Funcionalidades implementadas
 

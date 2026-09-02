@@ -20,7 +20,6 @@ Monitoreo Académico
 
 <img width="1439" height="799" alt="monitoreo" src="https://github.com/user-attachments/assets/555c35b4-6a85-4a53-aea2-91f5b3ce1944" />
 
-
 ---
 
 # Objetivo del proyecto
@@ -112,11 +111,11 @@ Analiza variables relacionadas con el abandono académico.
 
 Incluye visualizaciones de:
 
-* Distribución por nivel de riesgo.
-* Nivel de estrés.
-* Asistencia.
-* Retrasos.
-* Comparación por semestre y departamento.
+* Distribución por nivel de riesgo
+* Nivel de estrés
+* Asistencia
+* Retrasos
+* Comparación por semestre y departamento
 
 **Objetivo:** identificar los principales factores asociados al riesgo de abandono.
 
@@ -144,12 +143,12 @@ Presenta indicadores ejecutivos y seguimiento del desempeño.
 
 KPIs incluidos:
 
-* Total de estudiantes.
-* Tasa de abandono.
-* Estudiantes en riesgo.
-* GPA promedio.
-* Asistencia promedio.
-* Insights dinámicos.
+* Total de estudiantes
+* Tasa de abandono
+* Estudiantes en riesgo
+* GPA promedio
+* Asistencia promedio
+* Insights dinámicos
 
 **Objetivo:** ofrecer una vista resumida para el monitoreo institucional.
 
@@ -179,11 +178,11 @@ El dashboard incorpora elementos interactivos para facilitar la exploración de 
 
 Durante este proyecto se fortalecieron conocimientos en:
 
-* Preparación y categorización de datos.
-* Creación de indicadores académicos mediante DAX.
-* Construcción de dashboards orientados al análisis educativo.
-* Uso de filtros y segmentadores para análisis interactivo.
-* Diseño de reportes con enfoque didáctico para cursos de análisis de datos.
+* Preparación y categorización de datos
+* Creación de indicadores académicos mediante DAX
+* Construcción de dashboards orientados al análisis educativo
+* Uso de filtros y segmentadores para análisis interactivo
+* Diseño de reportes con enfoque didáctico para cursos de análisis de datos
 
 ---
 
